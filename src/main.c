@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   main.c                                             :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: cyildiri <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: cyildiri <cyildiri@student.42.us.org>      +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2017/04/11 16:46:08 by cyildiri          #+#    #+#             */
 /*   Updated: 2017/04/11 16:46:41 by cyildiri         ###   ########.fr       */

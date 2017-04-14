@@ -4,7 +4,7 @@ OFILES = $(SRC:.c=.o)
 
 LIBFT = lib/libft/
 MLX = lib/minilibx/
-#LIBG = libg/
+#LIBG = lib/libg/
 
 LIBS = -L $(LIBFT) -lft
 LIBS += -L $(MLX) -lmlx -framework OpenGL -framework AppKit
